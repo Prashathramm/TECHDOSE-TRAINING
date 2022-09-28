@@ -1,4 +1,4 @@
-class Solution {
+class CountingBits {
     public int[] countBits(int n) {
         int[] res=new int[n+1];
         int ctr=0;

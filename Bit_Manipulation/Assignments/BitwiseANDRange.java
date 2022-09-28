@@ -1,4 +1,4 @@
-class Solution {
+public class BitwiseANDRange {
     public int rangeBitwiseAnd(int left, int right) {
         if(left==right) return left;
         int b=(int)(Math.log(left)/Math.log(2)+1);
