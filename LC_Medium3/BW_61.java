@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 import java.util.*;
 public class BW_61 {
     public long maxTaxiEarnings(int n, int[][] rides) { 

@@ -1,5 +1,4 @@
-package LC_Medium2;
-import java.util.*;
+package LC_Medium3;
 public class WC_266 {
     public int minimizedMaximum(int n, int[] quantities) {
         int l=1,r=0;

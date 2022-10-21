@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 
 public class BW_62 {
     public int maxConsecutiveAnswers(String answerKey, int k) {

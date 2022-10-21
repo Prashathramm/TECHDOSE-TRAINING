@@ -1,5 +1,5 @@
-package LC_Medium2;
-
+package LC_Medium3;
+import java.util.*;
 public class WC_260 {
     public boolean placeWordInCrossword(char[][] board, String word) {
         int r=board.length,c=board[0].length;

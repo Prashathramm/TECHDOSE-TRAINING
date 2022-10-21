@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 public class WC_251 {
     int ans=-1;
     boolean[] vis;

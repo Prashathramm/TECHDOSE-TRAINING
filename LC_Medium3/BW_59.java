@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 import java.util.*;
 public class BW_59 {
     int mod=(int)1e9+7;

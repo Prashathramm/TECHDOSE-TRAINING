@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 
 public class WC_253 {
     public int minSwaps(String s) {

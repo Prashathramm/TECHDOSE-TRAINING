@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 import java.util.*;
 public class WC_259 {
     List<int[]>l=new ArrayList<>();

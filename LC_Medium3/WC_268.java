@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 
 public class WC_268 {
     Map<Integer,List<Integer>>map;

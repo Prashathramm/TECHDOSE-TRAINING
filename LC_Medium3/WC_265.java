@@ -1,4 +1,4 @@
-package LC_Medium2;
+package LC_Medium3;
 import java.util.*;
 public class WC_265 {
     public int minimumOperations(int[] nums, int start, int goal) {
