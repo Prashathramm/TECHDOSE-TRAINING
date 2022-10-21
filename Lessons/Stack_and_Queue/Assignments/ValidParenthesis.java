@@ -1,6 +1,6 @@
-package FAQ;
-import java.util.*;
-class Solution {
+package Stack_and_Queue.Assignments;
+
+public class ValidParenthesis {
     public boolean isValid(String s) {
         Stack<Character>stk=new Stack<>();
         for(char ch:s.toCharArray()) {
@@ -14,4 +14,5 @@ class Solution {
         }
         return stk.isEmpty();
     }
+    
 }
