@@ -8,11 +8,14 @@ public class PrimeFactors {
         System.out.print(set);
     }
     public static void solve(int n) {
-        for(int i=2;i<=n;++i) {
+        for(int i=2;i*i<=n;++i) {
             while(n%i==0) {
                 set.add(i);
                 n/=i;
             }
+        }
+        if(n!=1) {
+            set.add(n);
         }
     }
 }
